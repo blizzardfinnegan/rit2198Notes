@@ -1,0 +1,5 @@
+During Commodore Matthew C. Perry’s expedition, he carried specific, official instructions that were based on several general preconceptions about Japan and the Japanese. These ideas guided Perry and, later, Townsend Harris as they negotiated the 1854 and 1858 treaties. Also, in Christopher Benfey’s The Great Wave, we have read about the different expectations that a variety of Americans carried to Japan in the Meiji Period.
+
+Choose one of the Americans described in The Great Wave and compare his or her expectations and experiences in Japan with American preconceptions from the Perry-Harris era. Were any of these preconceptions or expectations accurate? Why or why not? Would Perry have been able to accurately predict the course of American-Japanese relations as it developed in the encounters between Americans and Meiji Japan that Benfey describes? 
+
+Essays will be graded on content and style. Late submissions will be subject to the deduction of one letter grade (10%).
