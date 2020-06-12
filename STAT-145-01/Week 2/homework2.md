@@ -13,7 +13,6 @@
     \overline{\underline{|z=-0.33|}}\\
     $$
     
-
 26. In a normal distribution, *x* = 5 and *z* = –1.25. This tells you that *x* = 5 is __ 1.25 __ standard deviations to the __ right __ (right or left) of the mean.
 
 [27](https://openstax.org/books/introductory-statistics/pages/6-solutions#fs-idp37768720-solution). In a normal distribution, *x* = 3 and *z* = 0.67. This tells you that *x* = 3 is __ 0.67 __ standard deviations to the __ left __ (right or left) of the mean.
@@ -35,10 +34,9 @@
         z=1.79
         $$
         
-
-    2. If a male friend of yours said he thought his systolic blood  pressure was 2.5 standard deviations below the mean, but that he  believed his blood pressure was between 100 and 150 millimeters, what would you say to him?
+2. If a male friend of yours said he thought his systolic blood  pressure was 2.5 standard deviations below the mean, but that he  believed his blood pressure was between 100 and 150 millimeters, what would you say to him?
         I would probably tell him that he was incorrect, and show him the math.
-
+    
 65. Kyle’s doctor told him that the *z*-score for his systolic blood pressure is 1.75. Which of the following is the  best interpretation of this standardized score? The systolic blood  pressure (given in millimeters) of males has an approximately normal  distribution with mean *µ* = 125 and standard deviation *σ* = 14. If *X* = a systolic blood pressure score then  *X* ~ *N* (125, 14).
 
     1. Which answer(s) is/are correct? (Highlighted is answer)
