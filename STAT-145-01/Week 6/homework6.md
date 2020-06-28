@@ -15,30 +15,31 @@
          4. *n* – 1 = _____13_____
 
      2. Define the random variable $X$ in words.
+
     X is the amount of time a child needs training wheels. 
-     
+
 3. Define the random variable $\overline X$ in words.
          $\overline X$ is the mean amount of time a child needs training wheels in the sample of 14 children.
 
      4. Which distribution should you use for this problem? Explain your choice.
     Because the underlying population distribution is assumed normal, we will use the t-distribution.
-     
+    
      5. Construct a 99% confidence interval for the population mean length of time using training wheels.
-     
+    
          1. State the confidence interval.
-        	$μ∈(3.585,8.415)$
+            	$μ∈(3.585,8.415)$
          2. Sketch the graph.
          3. Calculate the ~~error bound~~ Margin of Error.
-     
+    
     $$
          {8.415-3.585\over2}=2.415=ME
-         $$
+    $$
 
-         
-     
+    ​     
+    
      6. Why would the error bound change if the confidence level were lowered to 90%?
          90% is smaller than 99%, so the 90% margin of error should be smaller than 99%.
-     
+    
 109. The Federal Election Commission (FEC) collects  information about campaign contributions and disbursements for  candidates and political committees each election cycle. A political  action committee (PAC) is a committee formed to raise money for  candidates and campaigns. A Leadership PAC is a PAC formed by a federal  politician (senator or representative) to raise money to help other  candidates’ campaigns. 
      The FEC has reported financial information for  556 Leadership PACs that operating during the 2011–2012 election cycle.  The following table shows the total receipts during this cycle for a  random selection of 30 Leadership PACs.
 

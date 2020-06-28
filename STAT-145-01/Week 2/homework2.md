@@ -33,7 +33,7 @@
         z={150 -125\over 14}\\
         z=1.79
         $$
-        
+    
 2. If a male friend of yours said he thought his systolic blood  pressure was 2.5 standard deviations below the mean, but that he  believed his blood pressure was between 100 and 150 millimeters, what would you say to him?
         I would probably tell him that he was incorrect, and show him the math.
     
