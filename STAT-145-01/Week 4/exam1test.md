@@ -95,7 +95,6 @@
     Z=-0.08
     $$
     
-
 7. Interpret this Z-score. 
     This Z-score means that my cousin got ever so slightly worse than the average, but essentially scored the same.
 
@@ -105,7 +104,7 @@
 # Problem 5
 
 1. An analyst has determined that both companies profit distributions are somewhat symmetric. Explain why this is reasonable.
-    
+   
 2. Based on the comparative box plots which company has higher profits per employee, on average? Explain.
     Computer has a higher profit per employee on average, because the median is higher.![image-20200611181529943](exam1test.assets/image-20200611181529943.png)
 3. Your colleague claims tha![image-20200611181529996](exam1test.assets/image-20200611181529996.png)t the aerospace companies profit data has much more variability than the computer data. Using a reliable measure of spread, explain why this is not true. 

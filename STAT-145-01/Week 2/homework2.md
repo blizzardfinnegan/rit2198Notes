@@ -33,7 +33,7 @@
         z={150 -125\over 14}\\
         z=1.79
         $$
-        
+    
 2. If a male friend of yours said he thought his systolic blood  pressure was 2.5 standard deviations below the mean, but that he  believed his blood pressure was between 100 and 150 millimeters, what would you say to him?
         I would probably tell him that he was incorrect, and show him the math.
     
@@ -81,5 +81,26 @@
 67. In 2005, 1,475,623 students heading to college took  the SAT. The distribution of scores in the math section of the SAT  follows a normal distribution with mean *µ* = 520 and standard deviation *σ* = 115.
 
     1. Calculate the *z*-score for an SAT score of 720. Interpret it using a complete sentence.
+        $$
+        z={x-\overline x\over \sigma}\\
+        z={720-520\over115}\\
+        \overline{\underline{|z=1.739|}}
+        $$
+        This Z-score means that a score of 720 is 1.739 standard deviations above the mean.
+    
     2. What math SAT score is 1.5 standard deviations above the mean? What can you say about this SAT score?
+        This SAT score is significantly higher than the average, but still statistically significant.
+    
     3. For 2012, the SAT math test had a mean of 514 and standard deviation 117. The ACT math test is an alternate to the SAT and is approximately  normally distributed with mean 21 and standard deviation 5.3. If one  person took the SAT math test and scored 700 and a second person took  the ACT math test and scored 30, who did better with respect to the test they took?
+
+$$
+z_{SAT}={x-\overline x\over \sigma}\\
+z_{SAT}={700-520\over115}\\
+z_{SAT}=1.565\\
+z_{ACT}={x-\overline x\over \sigma}\\
+z_{ACT}={30-21\over5.3}\\
+z_{ACT}=1.698\\
+z_{ACT}>z_{SAT}\\
+$$
+
+Because Z-scores can be compared regardless of the data they were created from, (due to being divided by the standard deviation, removing units) the person who took the ACT math test scored higher.
