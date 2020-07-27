@@ -1,6 +1,6 @@
 # 	Skyler MacDougall
 
-## Homework 11: Due Friday 7/24/2020
+## Homework 11: Due Friday 7/31/2020
 
 ### STAT-145-02
 
@@ -50,10 +50,10 @@
 
 6. Researchers will create a confidence interval with the proportion of all first-grade children who are overweight. The chance that this method will provide a correct result is determined by the:
 
-    1. sample size
-    2. level of confidence
-    3. sample mean
-    4. population standard deviation
+    1. ~~sample size~~
+    2. ==level of confidence==
+    3. ~~sample mean~~
+    4. ~~population standard deviation~~
 
 7. See the confidence interval diagram below.
     ![image-20200726152242040](homework11.assets/image-20200726152242040.png)
@@ -95,10 +95,10 @@
 
 12. If you want to estimate the proportion of all RIT students who smoke within 0.05 with 90% confidence, what is the minimum sample size you will need?
 
-    1. 1562
-    2. 2033
-    3. 271
-    4. 549
+    1. ~~1562~~
+    2. ~~2033~~
+    3. ==271==
+    4. ~~549~~
 
 13. We are 95% confident that during October 2016 the mean water usage for all Rochester households was between 1250 and 1350 cubic feet.
     In which statement can you have 95% confidence?
@@ -110,7 +110,7 @@
 
 #### Part B: Test and CI
 
-14. It is commonly thought that very few US adults believe in reincarnation (the rebirth of a soul into a new body). But a researcher thinks that group has been growing and wants to convince others that the percentage who believe in reincarnation is grater than 20%. In the researcher's random sample of 942 US adults, 195 stated that they believe in reincarnation. Does the researcher's sample provide sufficient evidence to support the idea that more than 20% of all US adults believe in reincarnation? Show the complete testing process and always include your statistical output.
+14. It is commonly thought that very few US adults believe in reincarnation (the rebirth of a soul into a new body). But a researcher thinks that group has been growing and wants to convince others that the percentage who believe in reincarnation is greater than 20%. In the researcher's random sample of 942 US adults, 195 stated that they believe in reincarnation. Does the researcher's sample provide sufficient evidence to support the idea that more than 20% of all US adults believe in reincarnation? Show the complete testing process and always include your statistical output.
 
     #### Population
 
@@ -130,7 +130,8 @@
 
     #### Sample
 
-    
+    ![image-20200727113726315](homework11.assets/image-20200727113726315.png)
+
     $$
     n(p_0)(1-p_0)\ge10\\
     942(0.207)(0.793)\ge10\\
@@ -154,9 +155,9 @@
 
     
 
-    My p-value is .
+    My p-value is 0.2946.
 
-    Assuming that the true proportion equals 20%, there is a % probability of getting a sample population ($\hat p$) at least as extreme as the one we got from sampling.
+    Assuming that the true proportion equals 20%, there is a 29.46% probability of getting a sample population ($\hat p$) at least as extreme as the one we got from sampling.
 
     #### Conclusion
 
@@ -169,6 +170,15 @@
 15. How much caffeine is in *King of Caffeine* cola? A dozen randomly selected cans of *King of Caffeine* cola had the values of caffeine, measured in mg, noted in the provided excel sheet.
 
     1. Estimate the mean caffeine level among all cans of *King of Caffeine* cola with a 95% confidence.
-        
+       $\mu \in (32.349,33.685)$
+       
     2. What minimum sample size would be needed to estimate the mean caffeine level within 0.4mg with 95% confidence? **Show your work.**
-        
+       $$
+       n\ge(\frac{z*\sigma}{MOE})^2\\
+       n\ge(\frac{1.96*1.181}{0.4})^2\\
+       n\ge(\frac{2.315}{0.4})^2\\
+       n\ge(5.7869)^2\\
+       n\ge 33.488\\
+       n\ge34
+       $$
+       
