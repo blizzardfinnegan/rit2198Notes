@@ -50,8 +50,8 @@ Goal: Test to see if there is support for saying that p has decreased from 9.5% 
 #### Method
 
 $$
-H_0:\mu=0.095\\
-H_a:\mu<0.095\\
+H_0:p=0.095\\
+H_a:p<0.095\\
 \alpha=0.05\\
 $$
 
@@ -107,8 +107,8 @@ Goal: Test to see if there is support for saying that p has decreased from 13% o
 #### Method
 
 $$
-H_0:\mu=0.13\\
-H_a:\mu<0.13\\
+H_0:p=0.13\\
+H_a:p<0.13\\
 \alpha=0.05\\
 $$
 
